@@ -36,4 +36,6 @@ automatically create directories `chunks`, `processed_chunks`, `vert_chunks`.
 │   ├── CLASSLA-web-2024.sl.jsonl
 │   └── CLASSLA-web-2024.sr.jsonl
 └── scripts
+    ├── jsonl_to_vert.py
+    └── process_chunk.py
 ```
